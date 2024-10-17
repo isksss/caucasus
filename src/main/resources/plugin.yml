@@ -1,0 +1,7 @@
+name: Caucasus
+version: '1.0-SNAPSHOT'
+main: dev.isksss.mc.caucasus.Caucasus
+api-version: '1.21'
+prefix: Caucasus
+authors: [ isksss ]
+description: All in one plugin.
